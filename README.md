@@ -35,7 +35,6 @@ trustworthy-healthcare-llm/
 │   └── TrustMedLLM_Trust_Reliability_Poster.pdf
 ├── research/
 │   └── TrustMedLLM_Research_Project.pdf
-├── .gitignore
 ├── LICENSE
 └── README.md
 ```
